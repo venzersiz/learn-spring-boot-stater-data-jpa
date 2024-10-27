@@ -1,0 +1,4 @@
+rootProject.name = "learn-spring-boot-stater-data-jpa"
+
+include "shared"
+include "app"
